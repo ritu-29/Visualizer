@@ -99,31 +99,6 @@ Typical dataset may contain:
 
 ---
 
-## 📈 Learning Outcomes
-- Hands-on Pandas operations
-- Data cleaning techniques
-- GroupBy & pivot tables
-- Real-world data visualization
-- Menu-driven Python programming
-
----
-
-## ✅ Best Use Case
-✔ Academic projects  
-✔ Data analysis practice  
-✔ Beginner-friendly analytics tool  
-
----
-
-## 👩‍💻 Author
-**Rituu Poonjani**  
-_Data Analysis Project_
-
----
-
-⭐ If you like this project, feel free to improve or extend it!
-
-
 ---
 
 ## 1. load_data()
@@ -214,3 +189,26 @@ plt.pie(values, labels=labels, autopct="%1.1f%%")
 **Use:** Shows percentage contribution
 
 ---
+## 📈 Learning Outcomes
+- Hands-on Pandas operations
+- Data cleaning techniques
+- GroupBy & pivot tables
+- Real-world data visualization
+- Menu-driven Python programming
+
+---
+
+## ✅ Best Use Case
+✔ Academic projects  
+✔ Data analysis practice  
+✔ Beginner-friendly analytics tool  
+
+---
+
+## 👩‍💻 Author
+**Rituu Poonjani**  
+_Data Analysis Project_
+
+---
+
+⭐ If you like this project, feel free to improve or extend it!
